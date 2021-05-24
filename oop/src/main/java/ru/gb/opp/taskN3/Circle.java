@@ -1,4 +1,4 @@
-package ru.gb.opp.taskN2;
+package ru.gb.opp.taskN3;
 
 public class Circle extends Shape<Double> {
     private int radius;
