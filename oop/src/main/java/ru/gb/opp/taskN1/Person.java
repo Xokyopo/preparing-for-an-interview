@@ -1,4 +1,4 @@
-package ru.gb.opp.t1;
+package ru.gb.opp.taskN1;
 
 /*
 Создать builder для класса Person со следующими полями: String firstName, String lastName, String middleName,

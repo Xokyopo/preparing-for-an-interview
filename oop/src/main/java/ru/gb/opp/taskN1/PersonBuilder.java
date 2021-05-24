@@ -1,4 +1,4 @@
-package ru.gb.opp.t1;
+package ru.gb.opp.taskN1;
 
 public class PersonBuilder {
     private String firstName;
