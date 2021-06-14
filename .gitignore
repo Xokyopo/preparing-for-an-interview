@@ -1,3 +1,4 @@
 /orm-hibernate-lesson/orm-hibernate-lesson.iml
 **/target/
 **/.idea/
+**/*.iml
