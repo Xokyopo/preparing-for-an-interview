@@ -11,6 +11,7 @@
         <module>oop</module>
         <module>orm-hibernate-lesson</module>
         <module>web-servlet</module>
+        <module>spring-boot-basic-crud-web-app</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
